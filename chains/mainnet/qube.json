@@ -31,6 +31,12 @@
             "symbol": "ATOM",
             "exponent": "6",
             "logo": "https://cryptologos.cc/logos/cosmos-atom-logo.png"
+        },
+        {
+            "base": "factory/qube1t2ydw7r4asmk74ymuvykjshdzun8dxye0az5wz/wbtc",
+            "symbol": "WBTC",
+            "exponent": "6",
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/wbtc.png"
         }
     ]
 }
